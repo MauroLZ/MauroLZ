@@ -14,12 +14,6 @@ Languages and tools:
 
 </div>
 
-Here are some of my projects:
-
-- [Project 1](https://github.com/MauroLZ/ecommerce-react)
-- [Project 2](https://github.com/MauroLZ/weather-app))
-- [Project 3](https://github.com/MauroLZ/dashboard)
-
 - [My repositories](https://github.com/MauroLZ?tab=repositories)
-
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maurolz)](https://github.com/maurolz)
