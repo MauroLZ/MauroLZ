@@ -1,6 +1,6 @@
 ### Hi, I'm Mauro 👋
 
-A Computer Science student and front end developer ☕️
+Frontend Developer specialized in Angular, Shopify Liquid and Remix
 
 - [My repositories](https://github.com/MauroLZ?tab=repositories)
  
